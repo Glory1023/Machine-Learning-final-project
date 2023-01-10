@@ -9,9 +9,10 @@
         (5) after_test.csv in data folder
         (6) submission.csv in data folder
 ###  2.You should modify the data path in 0811619_final_inference.ipynb
-        AFTER_PROCESS_TRAIN_PATH = "related path to after_train.csv"
-        AFTER_PROCESS_TEST_PATH = "related path to after_test.csv"
-        SAMPLE_SUBMISSION_PATH = "related path to sample_submission.csv"
-        Model_PATH = "related path to model folder/"
-        and also the submission file you want to place
-        SUBMISSION_PATH = "related path to final_0811619.csv"
+        (1)AFTER_PROCESS_TRAIN_PATH = "related path to after_train.csv"
+        (2)AFTER_PROCESS_TEST_PATH = "related path to after_test.csv"
+        (3)SAMPLE_SUBMISSION_PATH = "related path to sample_submission.csv"
+        (4)Model_PATH = "related path to model folder/"
+        (5)the submission file you want to place
+          SUBMISSION_PATH = "related path to final_0811619.csv"
+###  3.Run the 0811619_final_inference.ipynb file
