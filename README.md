@@ -2,7 +2,7 @@
   my student ID is 0811619
 ## Reproduce Submission
 ###  1.You should download the file first,the file you need:
-        (1) 0811619_final_inference.ipynb
+        (1) [0811619_final_inference.ipynb](https://github.com/Glory1023/Machine-Learning-final-project/blob/main/0811619_final_inference.ipynb)
         (2) requirements.txt
         (3) model folder
         (4) after_train.csv in data folder
